@@ -7,7 +7,7 @@ about:
   head: faf983e
   archived: false
   latestVersion: v2.19.0
-  collectedAt: 2026-09-04T19:19:39Z
+  collectedAt: 2026-09-04T21:15:12Z
 timeline:
   created: 2015-04-05
   lastCommit: 2026-09-04
@@ -82,6 +82,54 @@ total:
   openIssue: 1
   commit: 3745
 ---
+path: /home/runner/.x-repo/github.com/dbcli/mycli
+collectedAt: 2026-09-04T21:15:14Z
+loc:
+  Python:
+    code: 39095
+    comments: 665
+    blanks: 9703
+    files: 136
+  Gherkin:
+    code: 239
+    comments: 2
+    blanks: 43
+    files: 8
+  Toml:
+    code: 152
+    comments: 1
+    blanks: 21
+    files: 1
+  Fish:
+    code: 116
+    comments: 2
+    blanks: 14
+    files: 1
+  ReStructuredText:
+    code: 66
+    comments: 0
+    blanks: 35
+    files: 3
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2527
+    blanks: 1092
+    files: 6
+  Text:
+    code: 0
+    comments: 65
+    blanks: 5
+    files: 2
+total:
+  code: 39727
+  comments: 3267
+  blanks: 10920
+  files: 158
 ---
 date: "2026-08-24"
 repo:
