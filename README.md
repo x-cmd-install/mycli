@@ -4,10 +4,10 @@ Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Datafra
 
 - **Upstream**: <https://github.com/dbcli/mycli>
 - **Homepage**: <http://mycli.net>
-- **Latest release**: `v2.21.1` (2026-09-07)
-- **Last commit**: 2026-09-08
+- **Latest release**: `v2.22.0` (2026-09-09)
+- **Last commit**: 2026-09-09
 - **License**: BSD-3-Clause
-- **Stars**: 11975 · **Forks**: 698 · **Open issues**: 742 · **Contributors**: 128
+- **Stars**: 11978 · **Forks**: 698 · **Open issues**: 742 · **Contributors**: 128
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/mycli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:33:36Z._
+_Last regenerated: 2026-09-09T18:49:29Z._
