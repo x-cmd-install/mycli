@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 19 | 89 | 0 | 5 | 0 | 84 |
-| last60d | 2026-07-12 | 31 | 204 | 0 | 9 | 0 | 202 |
-| 90d | 2026-06-12 | 38 | 280 | 0 | 12 | 0 | 280 |
-| last180d | 2026-03-14 | 53 | 469 | 0 | 27 | 0 | 475 |
-| 360d | 2025-09-15 | 87 | 785 | 0 | 53 | 0 | 810 |
-| last720d | 2024-09-20 | 100 | 923 | 0 | 79 | 0 | 1898 |
+| 30d | 2026-08-12 | 17 | 84 | 0 | 5 | 0 | 84 |
+| last60d | 2026-07-13 | 31 | 203 | 0 | 9 | 0 | 202 |
+| 90d | 2026-06-13 | 38 | 279 | 0 | 12 | 0 | 280 |
+| last180d | 2026-03-15 | 53 | 469 | 0 | 27 | 0 | 475 |
+| 360d | 2025-09-16 | 87 | 785 | 0 | 53 | 0 | 810 |
+| last720d | 2024-09-21 | 100 | 923 | 0 | 79 | 0 | 1898 |
 
 ## Distribution status
 
-Reported by **82** distros on [repology.org](https://repology.org/project/mycli). **3** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
+Reported by **82** distros on [repology.org](https://repology.org/project/mycli). **4** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,7 +75,7 @@ Reported by **82** distros on [repology.org](https://repology.org/project/mycli)
 | Debian 13 | `1.31.2` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.0` | ⚠️ outdated |
-| Homebrew | `2.22.0` | ⚠️ outdated |
+| Homebrew | `2.23.0` | ✅ latest |
 | Fedora rawhide | `1.66.0` | ⚠️ outdated |
 | Nix unstable | `1.44.2` | ⚠️ outdated |
 | Alpine edge | `1.66.0` | ⚠️ outdated |
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:05:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:30:28Z._
