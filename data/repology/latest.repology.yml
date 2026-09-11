@@ -1,28 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 2.23.0
-  origversion: 2.23.0-1
-  status: newest
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: outdated
-  maintainers:
-    - lhw@ring0.de
 - repo: alpine_3_17
   subrepo: community
   srcname: mycli
@@ -36,19 +11,6 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.23.2
-  origversion: 1.23.2-0.1
-  status: outdated
-  maintainers:
-    - lhw@ring0.de
-  categories:
-    - misc
 - repo: alpine_3_18
   subrepo: community
   srcname: mycli
@@ -362,6 +324,44 @@
     - lhw@ring0.de
   categories:
     - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.23.2
+  origversion: 1.23.2-0.1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 2.23.0
+  origversion: 2.23.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - misc
 - repo: epel_9
   srcname: mycli
   binnames:
@@ -406,20 +406,6 @@
     - BSD
   categories:
     - Unspecified
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.31.2
-  origversion: 1.31.2-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - universe/misc
 - repo: fedora_40
   subrepo: release
   srcname: mycli
@@ -1053,6 +1039,20 @@
   visiblename: mycli
   version: 1.29.2
   origversion: 1.29.2-7
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.31.2
+  origversion: 1.31.2-1
   status: outdated
   maintainers:
     - daniel@debian.org
