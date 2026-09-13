@@ -230,4 +230,3 @@ checks:
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/publish.yml:251'
 ---
-{"id":387711932,"author":{"login":"rolandwalker","id":727482,"node_id":"MDQ6VXNlcjcyNzQ4Mg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAf6F6s4XHAO8","tag_name":"v2.24.4","target_commitish":"main","name":"v2.24.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-12T21:38:55Z","updated_at":"2026-09-12T21:40:12Z","published_at":"2026-09-12T21:40:12Z","assets":[],"body":"## What's Changed\r\n* Remove `continue-on-error` from release tests by @rolandwalker in https://github.com/dbcli/mycli/pull/2239\r\n* Remove artifact attestations from ghcr.io images by @rolandwalker in https://github.com/dbcli/mycli/pull/2240\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.24.3...v2.24.4","mentions_count":1}
