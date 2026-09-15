@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.24.4` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 11,976 · **Forks**: 699 · **Open issues**: 742 · **Contributors**: 128
+- **Stars**: 11,975 · **Forks**: 699 · **Open issues**: 742 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 1381 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3829
+- **Releases**: 115 · **Merged PRs**: 1384 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3835
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 21 | 96 | 0 | 2 | 0 | 89 |
-| last60d | 2026-07-16 | 36 | 213 | 0 | 9 | 0 | 198 |
-| 90d | 2026-06-16 | 43 | 293 | 0 | 12 | 0 | 274 |
-| last180d | 2026-03-18 | 57 | 473 | 0 | 26 | 0 | 471 |
-| 360d | 2025-09-19 | 92 | 800 | 0 | 52 | 0 | 825 |
-| last720d | 2024-09-24 | 100 | 938 | 0 | 79 | 0 | 1928 |
+| 30d | 2026-08-16 | 20 | 99 | 0 | 2 | 0 | 92 |
+| last60d | 2026-07-17 | 35 | 215 | 0 | 9 | 0 | 201 |
+| 90d | 2026-06-17 | 43 | 295 | 0 | 11 | 0 | 277 |
+| last180d | 2026-03-19 | 56 | 475 | 0 | 26 | 0 | 474 |
+| 360d | 2025-09-20 | 92 | 803 | 0 | 52 | 0 | 828 |
+| last720d | 2024-09-25 | 100 | 941 | 0 | 79 | 0 | 1934 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:54:42Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:50:33Z._
