@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/387711932",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/387711932/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/387711932/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.24.4",
-  "id": 387711932,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/390344789",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/390344789/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/390344789/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.25.2",
+  "id": 390344789,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4XHAO8",
-  "tag_name": "v2.24.4",
+  "node_id": "RE_kwDOAf6F6s4XRDBV",
+  "tag_name": "v2.25.2",
   "target_commitish": "main",
-  "name": "v2.24.4",
+  "name": "v2.25.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-12T21:38:55Z",
-  "updated_at": "2026-09-12T21:40:12Z",
-  "published_at": "2026-09-12T21:40:12Z",
+  "created_at": "2026-09-16T23:53:49Z",
+  "updated_at": "2026-09-16T23:54:41Z",
+  "published_at": "2026-09-16T23:54:41Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.24.4",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.24.4",
-  "body": "## What's Changed\r\n* Remove `continue-on-error` from release tests by @rolandwalker in https://github.com/dbcli/mycli/pull/2239\r\n* Remove artifact attestations from ghcr.io images by @rolandwalker in https://github.com/dbcli/mycli/pull/2240\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.24.3...v2.24.4",
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.25.2",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.25.2",
+  "body": "## What's Changed\r\n* Remove provenance/sbom from Docker image action by @rolandwalker in https://github.com/dbcli/mycli/pull/2251\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.25.1...v2.25.2",
   "mentions_count": 1
 }

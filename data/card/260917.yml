@@ -236,4 +236,3 @@ checks:
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/ci.yml:253'
 ---
-{"id":390344789,"author":{"login":"rolandwalker","id":727482,"node_id":"MDQ6VXNlcjcyNzQ4Mg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAf6F6s4XRDBV","tag_name":"v2.25.2","target_commitish":"main","name":"v2.25.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-16T23:53:49Z","updated_at":"2026-09-16T23:54:41Z","published_at":"2026-09-16T23:54:41Z","assets":[],"body":"## What's Changed\r\n* Remove provenance/sbom from Docker image action by @rolandwalker in https://github.com/dbcli/mycli/pull/2251\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.25.1...v2.25.2","mentions_count":1}
