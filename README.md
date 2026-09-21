@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 24 | 110 | 0 | 1 | 0 | 94 |
-| last60d | 2026-07-22 | 39 | 213 | 0 | 9 | 0 | 186 |
-| 90d | 2026-06-22 | 45 | 292 | 0 | 11 | 0 | 277 |
-| last180d | 2026-03-24 | 60 | 481 | 0 | 26 | 0 | 474 |
-| 360d | 2025-09-25 | 97 | 819 | 0 | 52 | 0 | 835 |
-| last720d | 2024-09-30 | 100 | 959 | 0 | 79 | 0 | 1970 |
+| 30d | 2026-08-22 | 24 | 102 | 0 | 1 | 0 | 94 |
+| last60d | 2026-07-23 | 37 | 211 | 0 | 9 | 0 | 186 |
+| 90d | 2026-06-23 | 45 | 285 | 0 | 10 | 0 | 277 |
+| last180d | 2026-03-25 | 60 | 478 | 0 | 26 | 0 | 474 |
+| 360d | 2025-09-26 | 97 | 819 | 0 | 52 | 0 | 835 |
+| last720d | 2024-10-01 | 100 | 959 | 0 | 79 | 0 | 1970 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:47:59Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:51:31Z._
