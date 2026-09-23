@@ -4,7 +4,7 @@
 
 Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes
 
-[![x-cmd/install — mycli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mycli.svg)](https://x-cmd.com/install/mycli)
+[![x-cmd/install — mycli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mycli.svg)](https://x-cmd.com/install/mycli)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.25.3` (2026-09-19)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 11,976 · **Forks**: 699 · **Open issues**: 742 · **Contributors**: 128
+- **Stars**: 11,977 · **Forks**: 699 · **Open issues**: 742 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 1402 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3871
+- **Releases**: 120 · **Merged PRs**: 1404 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 23 | 102 | 0 | 1 | 0 | 94 |
-| last60d | 2026-07-24 | 37 | 202 | 0 | 9 | 0 | 186 |
-| 90d | 2026-06-24 | 45 | 282 | 0 | 10 | 0 | 277 |
-| last180d | 2026-03-26 | 60 | 476 | 0 | 26 | 0 | 474 |
-| 360d | 2025-09-27 | 97 | 816 | 0 | 52 | 0 | 835 |
-| last720d | 2024-10-02 | 100 | 959 | 0 | 79 | 0 | 1970 |
+| 30d | 2026-08-24 | 23 | 100 | 0 | 1 | 0 | 96 |
+| last60d | 2026-07-25 | 35 | 192 | 0 | 9 | 0 | 188 |
+| 90d | 2026-06-25 | 45 | 283 | 0 | 10 | 0 | 279 |
+| last180d | 2026-03-27 | 60 | 477 | 0 | 26 | 0 | 476 |
+| 360d | 2025-09-28 | 97 | 817 | 0 | 52 | 0 | 837 |
+| last720d | 2024-10-03 | 100 | 961 | 0 | 79 | 0 | 1974 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:39:07Z._
