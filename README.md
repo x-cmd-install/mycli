@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 23 | 100 | 0 | 1 | 0 | 99 |
-| last60d | 2026-07-26 | 34 | 195 | 0 | 9 | 0 | 191 |
-| 90d | 2026-06-26 | 45 | 283 | 0 | 10 | 0 | 282 |
-| last180d | 2026-03-28 | 60 | 474 | 0 | 25 | 0 | 479 |
-| 360d | 2025-09-29 | 97 | 820 | 0 | 52 | 0 | 840 |
-| last720d | 2024-10-04 | 100 | 964 | 0 | 79 | 0 | 1980 |
+| 30d | 2026-08-26 | 22 | 100 | 0 | 0 | 0 | 99 |
+| last60d | 2026-07-27 | 34 | 191 | 0 | 9 | 0 | 191 |
+| 90d | 2026-06-27 | 45 | 282 | 0 | 10 | 0 | 282 |
+| last180d | 2026-03-29 | 58 | 474 | 0 | 25 | 0 | 479 |
+| 360d | 2025-09-30 | 97 | 819 | 0 | 52 | 0 | 840 |
+| last720d | 2024-10-05 | 100 | 964 | 0 | 79 | 0 | 1979 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:38:56Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:50:43Z._
