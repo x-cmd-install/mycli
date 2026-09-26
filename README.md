@@ -14,11 +14,11 @@ x install mycli
 
 ## Code insight
 
-Total: **41,569** lines of code across **155** files in the top 5 languages.
+Total: **41,581** lines of code across **155** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 41,037 | 661 | 10,163 | 144 |
+| Python | 41,049 | 661 | 10,162 | 144 |
 | Gherkin | 239 | 6 | 43 | 8 |
 | Toml | 151 | 1 | 21 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.25.3` (2026-09-19)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 1407 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3881
+- **Releases**: 120 · **Merged PRs**: 1409 · **Open PRs**: 0 · **Closed issues**: 742 · **Open issues**: 0 · **Commits**: 3885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 22 | 100 | 0 | 0 | 0 | 99 |
-| last60d | 2026-07-27 | 34 | 191 | 0 | 9 | 0 | 191 |
-| 90d | 2026-06-27 | 45 | 282 | 0 | 10 | 0 | 282 |
-| last180d | 2026-03-29 | 58 | 474 | 0 | 25 | 0 | 479 |
-| 360d | 2025-09-30 | 97 | 819 | 0 | 52 | 0 | 840 |
-| last720d | 2024-10-05 | 100 | 964 | 0 | 79 | 0 | 1979 |
+| 30d | 2026-08-27 | 22 | 101 | 0 | 0 | 0 | 101 |
+| last60d | 2026-07-28 | 34 | 193 | 0 | 9 | 0 | 193 |
+| 90d | 2026-06-28 | 45 | 284 | 0 | 10 | 0 | 284 |
+| last180d | 2026-03-30 | 58 | 473 | 0 | 25 | 0 | 481 |
+| 360d | 2025-10-01 | 96 | 819 | 0 | 52 | 0 | 842 |
+| last720d | 2024-10-06 | 100 | 966 | 0 | 79 | 0 | 1983 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:50:43Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:48:42Z._
