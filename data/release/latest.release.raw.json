@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/397355927",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/397355927/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/397355927/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.26.0",
-  "id": 397355927,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/399387003",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/399387003/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/399387003/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.27.0",
+  "id": 399387003,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4XryuX",
-  "tag_name": "v2.26.0",
+  "node_id": "RE_kwDOAf6F6s4Xzil7",
+  "tag_name": "v2.27.0",
   "target_commitish": "main",
-  "name": "v2.26.0",
+  "name": "v2.27.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-26T18:50:33Z",
-  "updated_at": "2026-09-26T18:51:18Z",
-  "published_at": "2026-09-26T18:51:17Z",
+  "created_at": "2026-09-29T17:45:01Z",
+  "updated_at": "2026-09-29T17:45:46Z",
+  "published_at": "2026-09-29T17:45:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.26.0",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.26.0",
-  "body": "## What's Changed\r\n* Bump docker/build-push-action from 7.3.0 to 7.4.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2265\r\n* Clarify the test_db license by @rolandwalker in https://github.com/dbcli/mycli/pull/2266\r\n* Add PyPi badge to README.md by @rolandwalker in https://github.com/dbcli/mycli/pull/2267\r\n* Thoroughly revise CONTRIBUTING.md by @rolandwalker in https://github.com/dbcli/mycli/pull/2268\r\n* Remove support for Python 3.10 by @rolandwalker in https://github.com/dbcli/mycli/pull/2269\r\n* Use \"v\" on version numbers in changelog.md by @rolandwalker in https://github.com/dbcli/mycli/pull/2270\r\n* Don't wait for Boundary tunnel teardown on quit by @rolandwalker in https://github.com/dbcli/mycli/pull/2271\r\n* Add keybindings to insert Unix timestamp literals by @rolandwalker in https://github.com/dbcli/mycli/pull/2272\r\n* Unset `PYTHONPATH` in `AGENTS.md` command suggestions by @rolandwalker in https://github.com/dbcli/mycli/pull/2273\r\n* Major dependency upgrade to PyMySQL v1.2.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2274\r\n* Ability to complete partial enum values by @rolandwalker in https://github.com/dbcli/mycli/pull/2275\r\n* Prepare changelog for release v2.26.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2276\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.25.3...v2.26.0",
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.27.0",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.27.0",
+  "body": "## What's Changed\r\n* Bump astral-sh/setup-uv from 10.1.0 to 10.2.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2277\r\n* Show query state and timings while waiting by @rolandwalker in https://github.com/dbcli/mycli/pull/2278\r\n* Allow composing shell redirection with transforms by @rolandwalker in https://github.com/dbcli/mycli/pull/2279\r\n* Improve parsing around `$>` redirects by @rolandwalker in https://github.com/dbcli/mycli/pull/2280\r\n* Timed-out shell pipelines should report failure by @rolandwalker in https://github.com/dbcli/mycli/pull/2281\r\n* Prepare changelog for release v2.27.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2282\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.26.0...v2.27.0",
   "mentions_count": 2
 }
