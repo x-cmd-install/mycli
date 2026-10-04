@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/401788105",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/401788105/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/401788105/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.28.0",
-  "id": 401788105,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/402666455",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/402666455/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/402666455/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.28.1",
+  "id": 402666455,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4X8szJ",
-  "tag_name": "v2.28.0",
+  "node_id": "RE_kwDOAf6F6s4YADPX",
+  "tag_name": "v2.28.1",
   "target_commitish": "main",
-  "name": "v2.28.0",
+  "name": "v2.28.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-02T12:14:53Z",
-  "updated_at": "2026-10-02T12:15:31Z",
-  "published_at": "2026-10-02T12:15:31Z",
+  "created_at": "2026-10-03T19:49:20Z",
+  "updated_at": "2026-10-03T19:50:08Z",
+  "published_at": "2026-10-03T19:50:08Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.28.0",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.28.0",
-  "body": "## What's Changed\r\n* Correct `--unbuffered` row counts by @rolandwalker in https://github.com/dbcli/mycli/pull/2283\r\n* Let `--unbuffered` use same state-update interval by @rolandwalker in https://github.com/dbcli/mycli/pull/2284\r\n* Add \"streaming\" state for `--unbuffered` queries by @rolandwalker in https://github.com/dbcli/mycli/pull/2285\r\n* Fix a brief blankout of query state feedback by @rolandwalker in https://github.com/dbcli/mycli/pull/2286\r\n* Add `doc/known_bugs.md` for known bugs and limitations. by @rolandwalker in https://github.com/dbcli/mycli/pull/2287\r\n* Add `doc/cookbook.md` for recipes on mycli usage and configuration by @rolandwalker in https://github.com/dbcli/mycli/pull/2288\r\n* Replace `pyfzf` dependency with internal version by @rolandwalker in https://github.com/dbcli/mycli/pull/2289\r\n* Add some items to the `known_bugs.md` doc by @rolandwalker in https://github.com/dbcli/mycli/pull/2290\r\n* Checkup mode: `sqlglotc` library is optional for performance by @rolandwalker in https://github.com/dbcli/mycli/pull/2291\r\n* Add history highlighting to known bugs doc by @rolandwalker in https://github.com/dbcli/mycli/pull/2292\r\n* Use outside copy of `uv` when running `tox` by @rolandwalker in https://github.com/dbcli/mycli/pull/2294\r\n* Load special commands under Python 3.15 by @rolandwalker in https://github.com/dbcli/mycli/pull/2295\r\n* Use forward-slash `/command` forms in behave test suite by @rolandwalker in https://github.com/dbcli/mycli/pull/2296\r\n* Prefer forward-slash `/commands` in pytest tests by @rolandwalker in https://github.com/dbcli/mycli/pull/2297\r\n* Add a tox typecheck command by @rolandwalker in https://github.com/dbcli/mycli/pull/2298\r\n* Add a typecheck step to the `publish.yml` workflow by @rolandwalker in https://github.com/dbcli/mycli/pull/2299\r\n* Prepare changelog for release v2.28.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2300\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.27.0...v2.28.0",
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.28.1",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.28.1",
+  "body": "## What's Changed\r\n* Add Python 3.15 trove classifier by @rolandwalker in https://github.com/dbcli/mycli/pull/2301\r\n* Refactor: move Polars files to a package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2302\r\n* Move many utility files to a `utils` directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2303\r\n* Move various completion files to a `completion` directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2304\r\n* Move `fzf.py` inside a package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2305\r\n* Move `hybrid_redirection.py` inside a package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2306\r\n* Move `sql_result.py` inside a package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2307\r\n* Rename `special` package to `special_commands` by @rolandwalker in https://github.com/dbcli/mycli/pull/2308\r\n* Move integrations to an `integrations/` directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2309\r\n* Move `prompt_toolkit` extensions to `ptoolkit` directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2310\r\n* Move `mycli_lexer.py` to a `pygments/` package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2311\r\n* Move `password_sources.py` to a `credentials/` package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2312\r\n* Create an `execution/` package directory by @rolandwalker in https://github.com/dbcli/mycli/pull/2313\r\n* Add `.txt` to text files without file extensions by @rolandwalker in https://github.com/dbcli/mycli/pull/2314\r\n* Move `test` directory to `mycli_test` by @rolandwalker in https://github.com/dbcli/mycli/pull/2315\r\n* Ignore recent refactor move commits in git-blame by @rolandwalker in https://github.com/dbcli/mycli/pull/2316\r\n* Rename `polars` package to `dataframe` by @rolandwalker in https://github.com/dbcli/mycli/pull/2317\r\n* Rename the `ptoolkit` package to `prompt_toolkit` for clarity by @rolandwalker in https://github.com/dbcli/mycli/pull/2318\r\n* Move `fzf` package under `integrations/` by @rolandwalker in https://github.com/dbcli/mycli/pull/2319\r\n* Rename `hybrid_redirection` package to `redirection` by @rolandwalker in https://github.com/dbcli/mycli/pull/2320\r\n* Ignore more file moves in git-blame by @rolandwalker in https://github.com/dbcli/mycli/pull/2321\r\n* Recast `cli_is_multiline()` as `repl_is_multiline()` by @rolandwalker in https://github.com/dbcli/mycli/pull/2322\r\n* Align some imports and variable names to match filename moves by @rolandwalker in https://github.com/dbcli/mycli/pull/2323\r\n* Recast `sqlexecute` as `sql_execute` by @rolandwalker in https://github.com/dbcli/mycli/pull/2324\r\n* Recast `QueryRunner` as `BackgroundRunner` by @rolandwalker in https://github.com/dbcli/mycli/pull/2325\r\n* Fix spelling error in package name by @rolandwalker in https://github.com/dbcli/mycli/pull/2326\r\n* Recast \"ptoolkit\" as \"prompt_toolkit\" in more places by @rolandwalker in https://github.com/dbcli/mycli/pull/2327\r\n* Align one-line app descriptions with `README.md` by @rolandwalker in https://github.com/dbcli/mycli/pull/2328\r\n* Prepare changelog for release v2.28.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2329\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.28.0...v2.28.1",
   "mentions_count": 1
 }
