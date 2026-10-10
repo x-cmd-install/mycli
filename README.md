@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,981 · **Forks**: 697 · **Open issues**: 743 · **Contributors**: 128
+- **Stars**: 11,981 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 128
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 17 | 115 | 1 | 1 | 0 | 114 |
-| last60d | 2026-08-10 | 34 | 208 | 1 | 8 | 0 | 203 |
-| 90d | 2026-07-11 | 47 | 318 | 1 | 10 | 0 | 318 |
-| last180d | 2026-04-12 | 63 | 463 | 1 | 25 | 0 | 465 |
-| 360d | 2025-10-14 | 100 | 882 | 1 | 52 | 0 | 901 |
-| last720d | 2024-10-19 | 100 | 1036 | 1 | 80 | 0 | 2124 |
+| 30d | 2026-09-10 | 15 | 114 | 1 | 1 | 0 | 114 |
+| last60d | 2026-08-11 | 34 | 203 | 1 | 6 | 0 | 203 |
+| 90d | 2026-07-12 | 46 | 318 | 1 | 10 | 0 | 318 |
+| last180d | 2026-04-13 | 63 | 460 | 1 | 25 | 0 | 465 |
+| 360d | 2025-10-15 | 99 | 882 | 1 | 52 | 0 | 901 |
+| last720d | 2024-10-20 | 100 | 1036 | 1 | 80 | 0 | 2124 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:01:06Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:43:05Z._
