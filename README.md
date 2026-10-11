@@ -14,13 +14,13 @@ x install mycli
 
 ## Code insight
 
-Total: **44,740** lines of code across **174** files in the top 5 languages.
+Total: **45,775** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 44,202 | 697 | 10,889 | 163 |
+| Python | 45,235 | 701 | 11,061 | 163 |
 | Gherkin | 239 | 6 | 43 | 8 |
-| Toml | 157 | 1 | 23 | 1 |
+| Toml | 159 | 1 | 23 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
 | Dockerfile | 20 | 0 | 6 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.28.2` (2026-10-07)
-- **Last commit**: 2026-10-08
+- **Latest**: `v2.29.1` (2026-10-10)
+- **Last commit**: 2026-10-10
 
 ## Popularity
 
-- **Stars**: 11,981 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 128
+- **Stars**: 11,980 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1480 · **Open PRs**: 1 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4027
+- **Releases**: 127 · **Merged PRs**: 1489 · **Open PRs**: 1 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4045
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 15 | 114 | 1 | 1 | 0 | 114 |
-| last60d | 2026-08-11 | 34 | 203 | 1 | 6 | 0 | 203 |
-| 90d | 2026-07-12 | 46 | 318 | 1 | 10 | 0 | 318 |
-| last180d | 2026-04-13 | 63 | 460 | 1 | 25 | 0 | 465 |
-| 360d | 2025-10-15 | 99 | 882 | 1 | 52 | 0 | 901 |
-| last720d | 2024-10-20 | 100 | 1036 | 1 | 80 | 0 | 2124 |
+| 30d | 2026-09-11 | 17 | 123 | 1 | 1 | 0 | 97 |
+| last60d | 2026-08-12 | 34 | 207 | 1 | 6 | 0 | 200 |
+| 90d | 2026-07-13 | 48 | 326 | 1 | 10 | 0 | 311 |
+| last180d | 2026-04-14 | 64 | 469 | 1 | 25 | 0 | 465 |
+| 360d | 2025-10-16 | 100 | 891 | 1 | 52 | 0 | 909 |
+| last720d | 2024-10-21 | 100 | 1045 | 1 | 80 | 0 | 2142 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:43:05Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:42:01Z._
