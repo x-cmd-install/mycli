@@ -14,11 +14,11 @@ x install mycli
 
 ## Code insight
 
-Total: **45,775** lines of code across **174** files in the top 5 languages.
+Total: **45,768** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 45,235 | 701 | 11,061 | 163 |
+| Python | 45,228 | 702 | 11,061 | 163 |
 | Gherkin | 239 | 6 | 43 | 8 |
 | Toml | 159 | 1 | 23 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.29.1` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Latest**: `v2.29.4` (2026-10-11)
+- **Last commit**: 2026-10-11
 
 ## Popularity
 
-- **Stars**: 11,980 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 128
+- **Stars**: 11,981 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 1489 · **Open PRs**: 1 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4045
+- **Releases**: 130 · **Merged PRs**: 1494 · **Open PRs**: 1 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4055
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 17 | 123 | 1 | 1 | 0 | 97 |
-| last60d | 2026-08-12 | 34 | 207 | 1 | 6 | 0 | 200 |
-| 90d | 2026-07-13 | 48 | 326 | 1 | 10 | 0 | 311 |
-| last180d | 2026-04-14 | 64 | 469 | 1 | 25 | 0 | 465 |
-| 360d | 2025-10-16 | 100 | 891 | 1 | 52 | 0 | 909 |
-| last720d | 2024-10-21 | 100 | 1045 | 1 | 80 | 0 | 2142 |
+| 30d | 2026-09-12 | 20 | 113 | 1 | 1 | 0 | 102 |
+| last60d | 2026-08-13 | 36 | 212 | 1 | 6 | 0 | 205 |
+| 90d | 2026-07-14 | 51 | 330 | 1 | 10 | 0 | 316 |
+| last180d | 2026-04-15 | 67 | 473 | 1 | 24 | 0 | 470 |
+| 360d | 2025-10-17 | 100 | 896 | 1 | 52 | 0 | 914 |
+| last720d | 2024-10-22 | 100 | 1050 | 1 | 80 | 0 | 2152 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:42:01Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:49:20Z._
