@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/415930056",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/415930056/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/415930056/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.0",
-  "id": 415930056,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/422710496",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/422710496/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/422710496/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.1",
+  "id": 422710496,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4YypbI",
-  "tag_name": "v2.30.0",
+  "node_id": "RE_kwDOAf6F6s4ZMgzg",
+  "tag_name": "v2.30.1",
   "target_commitish": "main",
-  "name": "v2.30.0",
+  "name": "v2.30.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-17T16:32:29Z",
-  "updated_at": "2026-10-17T16:33:26Z",
-  "published_at": "2026-10-17T16:33:26Z",
+  "created_at": "2026-10-24T12:10:48Z",
+  "updated_at": "2026-10-24T12:11:24Z",
+  "published_at": "2026-10-24T12:11:24Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.0",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.0",
-  "body": "## What's Changed\r\n* Show the user in the Docker prompt by @rolandwalker in https://github.com/dbcli/mycli/pull/2371\r\n* Bump astral-sh/setup-uv from 10.2.0 to 10.3.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2372\r\n* Show the user in the prompt if a default user was used, instead of `(none)` by @rolandwalker in https://github.com/dbcli/mycli/pull/2373\r\n* Documentation: transforms are no longer experimental by @rolandwalker in https://github.com/dbcli/mycli/pull/2374\r\n* Update `cli_helpers` to v2.15.2, improving vertical output by @rolandwalker in https://github.com/dbcli/mycli/pull/2375\r\n* Populate Docker history file with examples by @rolandwalker in https://github.com/dbcli/mycli/pull/2376\r\n* Update `key_bindings.md`, syncing with web by @rolandwalker in https://github.com/dbcli/mycli/pull/2377\r\n* Orthography nit in `key_bindings.md` by @rolandwalker in https://github.com/dbcli/mycli/pull/2378\r\n* Update `ruff` dependency to v0.17.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2379\r\n* Speed up `--list-dsn`, primarily on Python 3.15 by @rolandwalker in https://github.com/dbcli/mycli/pull/2380\r\n* Complete moving `MyCli` to `client.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2381\r\n* Update changelog for release v2.30.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2382\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.29.6...v2.30.0",
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.1",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.1",
+  "body": "## What's Changed\r\n* Fix changelog version number by @rolandwalker in https://github.com/dbcli/mycli/pull/2383\r\n* Update `pycryptodomex` to v3.24.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2384\r\n* Bump vampire/setup-wsl from 7.0.0 to 7.1.1 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2385\r\n* Bump vampire/setup-wsl from 7.1.1 to 7.2.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2386\r\n* Update `pip` LLM dependency to v26.2.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2387\r\n* Prepare changelog for release v2.30.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2388\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.0...v2.30.1",
   "mentions_count": 2
 }
