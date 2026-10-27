@@ -14,11 +14,11 @@ x install mycli
 
 ## Code insight
 
-Total: **45,959** lines of code across **175** files in the top 5 languages.
+Total: **45,964** lines of code across **175** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 45,419 | 705 | 11,123 | 164 |
+| Python | 45,424 | 705 | 11,127 | 164 |
 | Gherkin | 239 | 6 | 43 | 8 |
 | Toml | 157 | 1 | 23 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
@@ -26,11 +26,11 @@ Total: **45,959** lines of code across **175** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 2/13 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.30.1` (2026-10-24)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
-- **Stars**: 11,986 · **Forks**: 700 · **Open issues**: 743 · **Contributors**: 129
+- **Stars**: 11,988 · **Forks**: 701 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 1526 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4119
+- **Releases**: 134 · **Merged PRs**: 1527 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4121
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 14 | 112 | 0 | 1 | 0 | 93 |
-| last60d | 2026-08-27 | 36 | 218 | 0 | 1 | 0 | 200 |
-| 90d | 2026-07-28 | 48 | 310 | 0 | 10 | 0 | 289 |
-| last180d | 2026-04-29 | 68 | 485 | 0 | 21 | 0 | 484 |
-| 360d | 2025-10-31 | 100 | 914 | 0 | 52 | 0 | 929 |
-| last720d | 2024-11-05 | 100 | 1081 | 0 | 80 | 0 | 2210 |
+| 30d | 2026-09-27 | 13 | 113 | 0 | 1 | 0 | 94 |
+| last60d | 2026-08-28 | 36 | 218 | 0 | 1 | 0 | 201 |
+| 90d | 2026-07-29 | 48 | 311 | 0 | 10 | 0 | 290 |
+| last180d | 2026-04-30 | 68 | 484 | 0 | 20 | 0 | 485 |
+| 360d | 2025-11-01 | 100 | 913 | 0 | 52 | 0 | 930 |
+| last720d | 2024-11-06 | 100 | 1082 | 0 | 80 | 0 | 2212 |
 
 ## Distribution status
 
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:34:28Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:54:32Z._
