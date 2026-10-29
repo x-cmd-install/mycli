@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/422710496",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/422710496/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/422710496/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.1",
-  "id": 422710496,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/426426205",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/426426205/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/426426205/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.2",
+  "id": 426426205,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4ZMgzg",
-  "tag_name": "v2.30.1",
+  "node_id": "RE_kwDOAf6F6s4Zar9d",
+  "tag_name": "v2.30.2",
   "target_commitish": "main",
-  "name": "v2.30.1",
+  "name": "v2.30.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-24T12:10:48Z",
-  "updated_at": "2026-10-24T12:11:24Z",
-  "published_at": "2026-10-24T12:11:24Z",
+  "created_at": "2026-10-28T08:40:59Z",
+  "updated_at": "2026-10-28T08:41:46Z",
+  "published_at": "2026-10-28T08:41:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.1",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.1",
-  "body": "## What's Changed\r\n* Fix changelog version number by @rolandwalker in https://github.com/dbcli/mycli/pull/2383\r\n* Update `pycryptodomex` to v3.24.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2384\r\n* Bump vampire/setup-wsl from 7.0.0 to 7.1.1 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2385\r\n* Bump vampire/setup-wsl from 7.1.1 to 7.2.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2386\r\n* Update `pip` LLM dependency to v26.2.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2387\r\n* Prepare changelog for release v2.30.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2388\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.0...v2.30.1",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.2",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.2",
+  "body": "## What's Changed\r\n* Read and write default myclirc as UTF-8 by @b84330808 in https://github.com/dbcli/mycli/pull/2389\r\n* Check every statement for the destructive warning by @shaurya703 in https://github.com/dbcli/mycli/pull/2390\r\n* Bump ubuntu/wsl/.github/actions/wsl-checkout from 3b7a6b2a43af18aa541eeee1669ac27656630097 to e7fb23c6481945b25b974b6cf7a5c7f4550b6cf8 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2391\r\n* Bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2392\r\n* Bump astral-sh/setup-uv from 10.3.0 to 10.3.1 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2394\r\n* Bump actions/setup-python from 7.0.0 to 7.1.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2395\r\n* Bump shogo82148/actions-setup-mysql from 1.54.2 to 1.55.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2396\r\n* Update `cli_helpers` to v2.15.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2393\r\n* Update changelog for release v2.30.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2397\r\n\r\n## New Contributors\r\n* @b84330808 made their first contribution in https://github.com/dbcli/mycli/pull/2389\r\n* @shaurya703 made their first contribution in https://github.com/dbcli/mycli/pull/2390\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.1...v2.30.2",
+  "mentions_count": 4
 }
