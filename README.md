@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.30.2` (2026-10-28)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 
 ## Popularity
 
-- **Stars**: 11,987 · **Forks**: 700 · **Open issues**: 743 · **Contributors**: 130
+- **Stars**: 11,988 · **Forks**: 700 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 1538 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4143
+- **Releases**: 135 · **Merged PRs**: 1539 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 13 | 111 | 0 | 1 | 0 | 105 |
-| last60d | 2026-08-31 | 32 | 214 | 0 | 1 | 0 | 212 |
-| 90d | 2026-08-01 | 48 | 302 | 0 | 10 | 0 | 301 |
-| last180d | 2026-05-03 | 68 | 491 | 0 | 20 | 0 | 496 |
-| 360d | 2025-11-04 | 100 | 924 | 0 | 52 | 0 | 941 |
-| last720d | 2024-11-09 | 100 | 1093 | 0 | 79 | 0 | 2233 |
+| 30d | 2026-10-01 | 13 | 106 | 0 | 1 | 0 | 106 |
+| last60d | 2026-09-01 | 31 | 213 | 0 | 1 | 0 | 213 |
+| 90d | 2026-08-02 | 47 | 303 | 0 | 10 | 0 | 302 |
+| last180d | 2026-05-04 | 68 | 492 | 0 | 20 | 0 | 497 |
+| 360d | 2025-11-05 | 100 | 925 | 0 | 52 | 0 | 942 |
+| last720d | 2024-11-10 | 100 | 1094 | 0 | 79 | 0 | 2235 |
 
 ## Distribution status
 
@@ -71,7 +71,7 @@ Reported by **79** distros on [repology.org](https://repology.org/project/mycli)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.30.1` | ⚠️ outdated |
-| Debian 14 | `2.29.4` | ⚠️ outdated |
+| Debian 14 | `2.30.1` | ⚠️ outdated |
 | Debian 13 | `1.31.2` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.0` | ⚠️ outdated |
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:40:15Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:25:39Z._
