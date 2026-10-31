@@ -2,25 +2,25 @@ about:
   description: "Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes"
   license: BSD-3-Clause
   homepage: http://mycli.net
-  head: 64b6e58
+  head: 867b48b
   archived: false
   latestVersion: "v2.30.2"
   latestRelease: "v2.30.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T05:40:06Z
+  collectedAt: 2026-10-31T05:25:31Z
 timeline:
   created: 2015-04-05
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 
 popularity:
-  star: 11987
+  star: 11988
   watcher: 166
   fork: 700
   release: 135
   contributor: 130
-  pullRequest: 1639
+  pullRequest: 1640
   issue: 743
 language:
   Python: 2092345
@@ -30,63 +30,63 @@ language:
 totalBytes: 2108438
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 13
-    mergedPR: 111
+    mergedPR: 106
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 105
+    commit: 106
   last60d:
-    since: 2026-08-31
-    release: 32
-    mergedPR: 214
+    since: 2026-09-01
+    release: 31
+    mergedPR: 213
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 212
+    commit: 213
   last90d:
-    since: 2026-08-01
-    release: 48
-    mergedPR: 302
+    since: 2026-08-02
+    release: 47
+    mergedPR: 303
     openPR: 0
     closedIssue: 10
     openIssue: 0
-    commit: 301
+    commit: 302
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 68
-    mergedPR: 491
+    mergedPR: 492
     openPR: 0
     closedIssue: 20
     openIssue: 0
-    commit: 496
+    commit: 497
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
-    mergedPR: 924
+    mergedPR: 925
     openPR: 0
     closedIssue: 52
     openIssue: 0
-    commit: 941
+    commit: 942
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 1093
+    mergedPR: 1094
     openPR: 0
     closedIssue: 79
     openIssue: 0
-    commit: 2233
+    commit: 2235
 total:
   release: 135
-  mergedPR: 1538
+  mergedPR: 1539
   openPR: 0
   closedIssue: 743
   openIssue: 0
-  commit: 4143
+  commit: 4145
 ---
 path: /home/runner/.x-repo/github.com/dbcli/mycli
-collectedAt: 2026-10-30T05:40:09Z
+collectedAt: 2026-10-31T05:25:34Z
 loc:
   Python:
     code: 45424
