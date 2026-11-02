@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,989 · **Forks**: 699 · **Open issues**: 743 · **Contributors**: 130
+- **Stars**: 11,990 · **Forks**: 699 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 13 | 104 | 0 | 1 | 0 | 62 |
-| last60d | 2026-09-02 | 31 | 209 | 0 | 1 | 0 | 183 |
-| 90d | 2026-08-03 | 47 | 304 | 0 | 10 | 0 | 272 |
-| last180d | 2026-05-05 | 68 | 496 | 0 | 20 | 0 | 497 |
-| 360d | 2025-11-06 | 100 | 929 | 0 | 52 | 0 | 945 |
-| last720d | 2024-11-11 | 100 | 1098 | 0 | 79 | 0 | 2239 |
+| 30d | 2026-10-03 | 12 | 76 | 0 | 1 | 0 | 62 |
+| last60d | 2026-09-03 | 30 | 209 | 0 | 1 | 0 | 183 |
+| 90d | 2026-08-04 | 47 | 297 | 0 | 10 | 0 | 272 |
+| last180d | 2026-05-06 | 68 | 496 | 0 | 20 | 0 | 497 |
+| 360d | 2025-11-07 | 100 | 929 | 0 | 52 | 0 | 945 |
+| last720d | 2024-11-12 | 100 | 1098 | 0 | 79 | 0 | 2239 |
 
 ## Distribution status
 
-Reported by **79** distros on [repology.org](https://repology.org/project/mycli). **3** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
+Reported by **79** distros on [repology.org](https://repology.org/project/mycli). **4** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:51:39Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:52:06Z._
