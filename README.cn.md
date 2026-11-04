@@ -26,11 +26,11 @@ x install mycli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/13 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ x install mycli
 
 ## 流行度
 
-- **Star**: 11,991 · **Fork**: 699 · **开放 issue**: 743 · **贡献者**: 130
+- **Star**: 11,992 · **Fork**: 698 · **开放 issue**: 743 · **贡献者**: 130
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install mycli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 11 | 77 | 0 | 1 | 0 | 63 |
-| last60d | 2026-09-04 | 30 | 205 | 0 | 1 | 0 | 184 |
-| 90d | 2026-08-05 | 47 | 294 | 0 | 10 | 0 | 273 |
-| last180d | 2026-05-07 | 68 | 496 | 0 | 20 | 0 | 498 |
-| 360d | 2025-11-08 | 100 | 930 | 0 | 51 | 0 | 946 |
-| last720d | 2024-11-13 | 100 | 1099 | 0 | 79 | 0 | 2241 |
+| 30d | 2026-10-05 | 11 | 77 | 0 | 1 | 0 | 63 |
+| last60d | 2026-09-05 | 30 | 199 | 0 | 1 | 0 | 184 |
+| 90d | 2026-08-06 | 46 | 291 | 0 | 8 | 0 | 273 |
+| last180d | 2026-05-08 | 68 | 495 | 0 | 20 | 0 | 498 |
+| 360d | 2025-11-09 | 100 | 930 | 0 | 51 | 0 | 946 |
+| last720d | 2024-11-14 | 100 | 1099 | 0 | 79 | 0 | 2241 |
 
 ## 发行版状态
 
@@ -89,4 +89,4 @@ mycli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:36:05Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:06:32Z._
