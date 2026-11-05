@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.30.2` (2026-10-28)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 11,992 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
+- **Stars**: 11,993 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 1544 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4155
+- **Releases**: 135 · **Merged PRs**: 1549 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 11 | 77 | 0 | 1 | 0 | 63 |
-| last60d | 2026-09-05 | 30 | 199 | 0 | 1 | 0 | 184 |
-| 90d | 2026-08-06 | 46 | 291 | 0 | 8 | 0 | 273 |
-| last180d | 2026-05-08 | 68 | 495 | 0 | 20 | 0 | 498 |
-| 360d | 2025-11-09 | 100 | 930 | 0 | 51 | 0 | 946 |
-| last720d | 2024-11-14 | 100 | 1099 | 0 | 79 | 0 | 2241 |
+| 30d | 2026-10-06 | 11 | 78 | 0 | 1 | 0 | 68 |
+| last60d | 2026-09-06 | 29 | 203 | 0 | 1 | 0 | 189 |
+| 90d | 2026-08-07 | 46 | 289 | 0 | 8 | 0 | 278 |
+| last180d | 2026-05-09 | 67 | 500 | 0 | 20 | 0 | 503 |
+| 360d | 2025-11-10 | 100 | 935 | 0 | 50 | 0 | 951 |
+| last720d | 2024-11-15 | 100 | 1104 | 0 | 79 | 0 | 2251 |
 
 ## Distribution status
 
-Reported by **79** distros on [repology.org](https://repology.org/project/mycli). **6** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
+Reported by **79** distros on [repology.org](https://repology.org/project/mycli). **7** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **79** distros on [repology.org](https://repology.org/project/mycli)
 | Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.0` | ⚠️ outdated |
 | Homebrew | `2.30.2` | ✅ latest |
-| Fedora rawhide | `1.66.0` | ⚠️ outdated |
+| Fedora rawhide | `2.30.2` | ✅ latest |
 | Nix unstable | `2.20.0` | ⚠️ outdated |
 | Alpine edge | `1.66.0` | ⚠️ outdated |
 
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:06:30Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:31:56Z._
