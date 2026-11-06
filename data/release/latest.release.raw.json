@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/426426205",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/426426205/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/426426205/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.2",
-  "id": 426426205,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/435056919",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/435056919/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/435056919/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.3",
+  "id": 435056919,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4Zar9d",
-  "tag_name": "v2.30.2",
+  "node_id": "RE_kwDOAf6F6s4Z7nEX",
+  "tag_name": "v2.30.3",
   "target_commitish": "main",
-  "name": "v2.30.2",
+  "name": "v2.30.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-28T08:40:59Z",
-  "updated_at": "2026-10-28T08:41:46Z",
-  "published_at": "2026-10-28T08:41:46Z",
+  "created_at": "2026-11-05T10:26:08Z",
+  "updated_at": "2026-11-05T10:29:05Z",
+  "published_at": "2026-11-05T10:29:05Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.2",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.2",
-  "body": "## What's Changed\r\n* Read and write default myclirc as UTF-8 by @b84330808 in https://github.com/dbcli/mycli/pull/2389\r\n* Check every statement for the destructive warning by @shaurya703 in https://github.com/dbcli/mycli/pull/2390\r\n* Bump ubuntu/wsl/.github/actions/wsl-checkout from 3b7a6b2a43af18aa541eeee1669ac27656630097 to e7fb23c6481945b25b974b6cf7a5c7f4550b6cf8 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2391\r\n* Bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2392\r\n* Bump astral-sh/setup-uv from 10.3.0 to 10.3.1 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2394\r\n* Bump actions/setup-python from 7.0.0 to 7.1.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2395\r\n* Bump shogo82148/actions-setup-mysql from 1.54.2 to 1.55.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2396\r\n* Update `cli_helpers` to v2.15.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2393\r\n* Update changelog for release v2.30.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2397\r\n\r\n## New Contributors\r\n* @b84330808 made their first contribution in https://github.com/dbcli/mycli/pull/2389\r\n* @shaurya703 made their first contribution in https://github.com/dbcli/mycli/pull/2390\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.1...v2.30.2",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.3",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.3",
+  "body": "## What's Changed\r\n* Bump astral-sh/setup-uv from 10.3.1 to 10.3.2 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2399\r\n* Bump shogo82148/actions-setup-mysql from 1.55.0 to 1.56.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2398\r\n* Update `wcwidth` dependency to v0.9.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2400\r\n* Update `sqlglot` dependency to v30.24.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2401\r\n* Bump docker/login-action from 4.6.0 to 4.7.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2402\r\n* Update `coverage` dev dependency to v7.17.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2403\r\n* Update `tox` dev dependency to v4.67.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2404\r\n* Update `ruff` dev dependency to v0.17.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2405\r\n* Update WSL Linux in CI to Ubuntu 26.04 by @rolandwalker in https://github.com/dbcli/mycli/pull/2406\r\n* Bump shogo82148/actions-setup-mysql from 1.56.0 to 1.56.1 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2407\r\n* Bump astral-sh/setup-uv from 10.3.2 to 10.3.3 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2408\r\n* Update `wcwidth` dependency to v0.9.4 by @rolandwalker in https://github.com/dbcli/mycli/pull/2409\r\n* Update `polars` dependency to v2.1.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2410\r\n* Update `pytest` dev dependency to v9.2.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2411\r\n* Update `ruff` dev dependency to v0.17.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2412\r\n* Update `sqlglot` dependency to v30.25.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2413\r\n* Prepare `changelog.md` for release v2.30.3 by @rolandwalker in https://github.com/dbcli/mycli/pull/2414\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.2...v2.30.3",
+  "mentions_count": 2
 }
