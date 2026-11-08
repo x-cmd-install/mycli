@@ -57,12 +57,28 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 11 | 70 | 0 | 0 | 0 | 70 |
-| last60d | 2026-09-08 | 28 | 191 | 0 | 1 | 0 | 191 |
-| 90d | 2026-08-09 | 45 | 280 | 0 | 8 | 0 | 280 |
-| last180d | 2026-05-11 | 68 | 500 | 0 | 18 | 0 | 505 |
-| 360d | 2025-11-12 | 100 | 936 | 0 | 50 | 0 | 953 |
-| last720d | 2024-11-17 | 100 | 1105 | 0 | 79 | 0 | 2254 |
+| 30d | 2026-10-09 | 11 | 70 | 0 | 0 | 0 | 70 |
+| last60d | 2026-09-09 | 28 | 186 | 0 | 1 | 0 | 191 |
+| 90d | 2026-08-10 | 45 | 279 | 0 | 8 | 0 | 280 |
+| last180d | 2026-05-12 | 67 | 500 | 0 | 17 | 0 | 505 |
+| 360d | 2025-11-13 | 100 | 936 | 0 | 50 | 0 | 953 |
+| last720d | 2024-11-18 | 100 | 1105 | 0 | 79 | 0 | 2254 |
+
+## Distribution status
+
+Reported by **80** distros on [repology.org](https://repology.org/project/mycli). **2** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.30.2` | ⚠️ outdated |
+| Debian 14 | `2.30.2` | ⚠️ outdated |
+| Debian 13 | `1.31.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.27.0` | ⚠️ outdated |
+| Homebrew | `2.30.3` | ✅ latest |
+| Fedora rawhide | `2.30.3` | ✅ latest |
+| Nix unstable | `2.20.0` | ⚠️ outdated |
+| Alpine edge | `1.66.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:50:20Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:53:54Z._
