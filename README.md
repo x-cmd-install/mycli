@@ -14,13 +14,13 @@ x install mycli
 
 ## Code insight
 
-Total: **45,963** lines of code across **175** files in the top 5 languages.
+Total: **46,184** lines of code across **176** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 45,424 | 705 | 11,127 | 164 |
+| Python | 45,644 | 704 | 11,198 | 165 |
 | Gherkin | 239 | 6 | 43 | 8 |
-| Toml | 156 | 1 | 23 | 1 |
+| Toml | 157 | 1 | 23 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
 | Dockerfile | 22 | 0 | 6 | 1 |
 
@@ -43,34 +43,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.30.3` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-09
 
 ## Popularity
 
-- **Stars**: 11,993 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
+- **Stars**: 11,994 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 1551 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4169
+- **Releases**: 136 · **Merged PRs**: 1558 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4183
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 11 | 70 | 0 | 0 | 0 | 70 |
-| last60d | 2026-09-09 | 28 | 186 | 0 | 1 | 0 | 191 |
-| 90d | 2026-08-10 | 45 | 279 | 0 | 8 | 0 | 280 |
-| last180d | 2026-05-12 | 67 | 500 | 0 | 17 | 0 | 505 |
-| 360d | 2025-11-13 | 100 | 936 | 0 | 50 | 0 | 953 |
-| last720d | 2024-11-18 | 100 | 1105 | 0 | 79 | 0 | 2254 |
+| 30d | 2026-10-11 | 9 | 63 | 0 | 0 | 0 | 50 |
+| last60d | 2026-09-11 | 26 | 192 | 0 | 1 | 0 | 173 |
+| 90d | 2026-08-12 | 43 | 276 | 0 | 6 | 0 | 273 |
+| last180d | 2026-05-14 | 67 | 506 | 0 | 17 | 0 | 506 |
+| 360d | 2025-11-15 | 100 | 942 | 0 | 50 | 0 | 958 |
+| last720d | 2024-11-20 | 100 | 1111 | 0 | 79 | 0 | 2268 |
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/mycli). **2** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/mycli). **6** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.30.2` | ⚠️ outdated |
+| Debian unstable | `2.30.3` | ✅ latest |
 | Debian 14 | `2.30.2` | ⚠️ outdated |
 | Debian 13 | `1.31.2` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:53:54Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:12:33Z._
