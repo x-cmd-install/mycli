@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.30.3` (2026-11-05)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 11,994 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
+- **Stars**: 11,996 · **Forks**: 698 · **Open issues**: 743 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 1558 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4183
+- **Releases**: 136 · **Merged PRs**: 1559 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 0 · **Commits**: 4185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 9 | 63 | 0 | 0 | 0 | 50 |
-| last60d | 2026-09-11 | 26 | 192 | 0 | 1 | 0 | 173 |
-| 90d | 2026-08-12 | 43 | 276 | 0 | 6 | 0 | 273 |
-| last180d | 2026-05-14 | 67 | 506 | 0 | 17 | 0 | 506 |
-| 360d | 2025-11-15 | 100 | 942 | 0 | 50 | 0 | 958 |
-| last720d | 2024-11-20 | 100 | 1111 | 0 | 79 | 0 | 2268 |
+| 30d | 2026-10-12 | 6 | 60 | 0 | 0 | 0 | 51 |
+| last60d | 2026-09-12 | 26 | 178 | 0 | 1 | 0 | 174 |
+| 90d | 2026-08-13 | 42 | 277 | 0 | 6 | 0 | 274 |
+| last180d | 2026-05-15 | 67 | 506 | 0 | 17 | 0 | 507 |
+| 360d | 2025-11-16 | 100 | 943 | 0 | 50 | 0 | 959 |
+| last720d | 2024-11-21 | 100 | 1112 | 0 | 79 | 0 | 2269 |
 
 ## Distribution status
 
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:12:33Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:00:06Z._

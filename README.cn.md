@@ -30,7 +30,7 @@ x install mycli
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ x install mycli
 ## 发布
 
 - **最新版本**: `v2.30.3` (2026-11-05)
-- **最近提交**: 2026-11-09
+- **最近提交**: 2026-11-10
 
 ## 流行度
 
-- **Star**: 11,994 · **Fork**: 698 · **开放 issue**: 743 · **贡献者**: 130
+- **Star**: 11,996 · **Fork**: 698 · **开放 issue**: 743 · **贡献者**: 130
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 1558 · **开放 PR**: 0 · **已关闭 issue**: 743 · **开放 issue**: 0 · **提交数**: 4183
+- **发布数**: 136 · **已合并 PR**: 1559 · **开放 PR**: 0 · **已关闭 issue**: 743 · **开放 issue**: 0 · **提交数**: 4185
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 9 | 63 | 0 | 0 | 0 | 50 |
-| last60d | 2026-09-11 | 26 | 192 | 0 | 1 | 0 | 173 |
-| 90d | 2026-08-12 | 43 | 276 | 0 | 6 | 0 | 273 |
-| last180d | 2026-05-14 | 67 | 506 | 0 | 17 | 0 | 506 |
-| 360d | 2025-11-15 | 100 | 942 | 0 | 50 | 0 | 958 |
-| last720d | 2024-11-20 | 100 | 1111 | 0 | 79 | 0 | 2268 |
+| 30d | 2026-10-12 | 6 | 60 | 0 | 0 | 0 | 51 |
+| last60d | 2026-09-12 | 26 | 178 | 0 | 1 | 0 | 174 |
+| 90d | 2026-08-13 | 42 | 277 | 0 | 6 | 0 | 274 |
+| last180d | 2026-05-15 | 67 | 506 | 0 | 17 | 0 | 507 |
+| 360d | 2025-11-16 | 100 | 943 | 0 | 50 | 0 | 959 |
+| last720d | 2024-11-21 | 100 | 1112 | 0 | 79 | 0 | 2269 |
 
 ## 发行版状态
 
@@ -89,4 +89,4 @@ mycli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:12:34Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:00:06Z._
