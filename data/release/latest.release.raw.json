@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/442808358",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/442808358/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/442808358/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.30.4",
-  "id": 442808358,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/445398069",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/445398069/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/445398069/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.31.0",
+  "id": 445398069,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4aZLgm",
-  "tag_name": "v2.30.4",
+  "node_id": "RE_kwDOAf6F6s4ajDw1",
+  "tag_name": "v2.31.0",
   "target_commitish": "main",
-  "name": "v2.30.4",
+  "name": "v2.31.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T10:44:33Z",
-  "updated_at": "2026-11-12T10:45:22Z",
-  "published_at": "2026-11-12T10:45:22Z",
+  "created_at": "2026-11-14T15:36:42Z",
+  "updated_at": "2026-11-14T15:37:20Z",
+  "published_at": "2026-11-14T15:37:20Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.30.4",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.30.4",
-  "body": "## What's Changed\r\n* Bump ubuntu/wsl/.github/actions/wsl-checkout from e7fb23c6481945b25b974b6cf7a5c7f4550b6cf8 to c1984d32aea99733825250f86df5f9f6d7e284c3 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2416\r\n* Bump shogo82148/actions-setup-mysql from 1.56.1 to 1.56.2 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2415\r\n* More test coverage for `special_commands/main.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2417\r\n* More test coverage for `packages/special_commands/iocommands.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2418\r\n* More test coverage for `packages/execution/sql_execute.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2419\r\n* Test coverage for `packages/tabular_output/sql_format.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2420\r\n* Update `PyMySQL` dependency to v1.2.4 by @rolandwalker in https://github.com/dbcli/mycli/pull/2421\r\n* Update `sqlparse` dependency to v0.6.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2422\r\n* Update `llm` dependency to v0.37.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2423\r\n* Bump docker/login-action from 4.7.0 to 4.8.0 by @dependabot[bot] in https://github.com/dbcli/mycli/pull/2425\r\n* fix: decode DSN database names by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2424\r\n* Update `coverage` dev dependency to v7.17.2 by @rolandwalker in https://github.com/dbcli/mycli/pull/2426\r\n* Update `mypy` dev dependency to v2.4.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2427\r\n* Update changelog for release v2.30.4 by @rolandwalker in https://github.com/dbcli/mycli/pull/2428\r\n\r\n## New Contributors\r\n* @pcbeingused333 made their first contribution in https://github.com/dbcli/mycli/pull/2424\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.3...v2.30.4",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.31.0",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.31.0",
+  "body": "## What's Changed\r\n* fix: open audit log and tee/once files as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2429\r\n* Support DELIMITER in batch input by @jayhemnani9910 in https://github.com/dbcli/mycli/pull/2430\r\n* fix: read /source and editor files as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2432\r\n* Read and write batch and checkpoint files as UTF-8 by @Alpenj in https://github.com/dbcli/mycli/pull/2434\r\n* Bracket IPv6 hosts in the DSN shown and saved by \\dsn by @Kernel-Hunter in https://github.com/dbcli/mycli/pull/2431\r\n* End use and source at the newline in batch input by @jayhemnani9910 in https://github.com/dbcli/mycli/pull/2433\r\n* Bracket IPv6 literals in prompt strings by @rolandwalker in https://github.com/dbcli/mycli/pull/2435\r\n* Prepare changelog for release v2.31.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2436\r\n\r\n## New Contributors\r\n* @jayhemnani9910 made their first contribution in https://github.com/dbcli/mycli/pull/2430\r\n* @Alpenj made their first contribution in https://github.com/dbcli/mycli/pull/2434\r\n* @Kernel-Hunter made their first contribution in https://github.com/dbcli/mycli/pull/2431\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.4...v2.31.0",
+  "mentions_count": 5
 }
