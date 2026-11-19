@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/445398069",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/445398069/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/445398069/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.31.0",
-  "id": 445398069,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/450219435",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/450219435/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/450219435/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.31.1",
+  "id": 450219435,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4ajDw1",
-  "tag_name": "v2.31.0",
+  "node_id": "RE_kwDOAf6F6s4a1c2r",
+  "tag_name": "v2.31.1",
   "target_commitish": "main",
-  "name": "v2.31.0",
+  "name": "v2.31.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-14T15:36:42Z",
-  "updated_at": "2026-11-14T15:37:20Z",
-  "published_at": "2026-11-14T15:37:20Z",
+  "created_at": "2026-11-18T15:58:46Z",
+  "updated_at": "2026-11-18T15:59:42Z",
+  "published_at": "2026-11-18T15:59:42Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.31.0",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.31.0",
-  "body": "## What's Changed\r\n* fix: open audit log and tee/once files as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2429\r\n* Support DELIMITER in batch input by @jayhemnani9910 in https://github.com/dbcli/mycli/pull/2430\r\n* fix: read /source and editor files as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2432\r\n* Read and write batch and checkpoint files as UTF-8 by @Alpenj in https://github.com/dbcli/mycli/pull/2434\r\n* Bracket IPv6 hosts in the DSN shown and saved by \\dsn by @Kernel-Hunter in https://github.com/dbcli/mycli/pull/2431\r\n* End use and source at the newline in batch input by @jayhemnani9910 in https://github.com/dbcli/mycli/pull/2433\r\n* Bracket IPv6 literals in prompt strings by @rolandwalker in https://github.com/dbcli/mycli/pull/2435\r\n* Prepare changelog for release v2.31.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2436\r\n\r\n## New Contributors\r\n* @jayhemnani9910 made their first contribution in https://github.com/dbcli/mycli/pull/2430\r\n* @Alpenj made their first contribution in https://github.com/dbcli/mycli/pull/2434\r\n* @Kernel-Hunter made their first contribution in https://github.com/dbcli/mycli/pull/2431\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.30.4...v2.31.0",
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.31.1",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.31.1",
+  "body": "## What's Changed\r\n* Improve test coverage for `batch_utils.py` by @rolandwalker in https://github.com/dbcli/mycli/pull/2437\r\n* Refresh completions when a DDL statement starts with a comment by @goranai in https://github.com/dbcli/mycli/pull/2439\r\n* Don't flag a safe UPDATE as destructive when it starts with a comment by @Kernel-Hunter in https://github.com/dbcli/mycli/pull/2440\r\n* Reset completions for USE and connect statements that start with a comment by @Kernel-Hunter in https://github.com/dbcli/mycli/pull/2441\r\n* Update `setuptools` llm dependency to v84.2.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2442\r\n* Update `tox`, `virtualenv`, and `filelock` for `uv audit` by @rolandwalker in https://github.com/dbcli/mycli/pull/2443\r\n* fix: read password file and contributor/sponsor/tip files as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2444\r\n* Encode slashes in DSN usernames by @sxwangsxwang1 in https://github.com/dbcli/mycli/pull/2446\r\n* Prepare changelog for release v2.31.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2447\r\n\r\n## New Contributors\r\n* @goranai made their first contribution in https://github.com/dbcli/mycli/pull/2439\r\n* @sxwangsxwang1 made their first contribution in https://github.com/dbcli/mycli/pull/2446\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.31.0...v2.31.1",
   "mentions_count": 5
 }
