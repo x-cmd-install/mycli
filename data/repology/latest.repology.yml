@@ -1,3 +1,71 @@
+- repo: kali_rolling
+  subrepo: main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 2.30.3
+  origversion: 2.30.3-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.31.2
+  origversion: 1.31.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.31.2
+  origversion: 1.31.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+  categories:
+    - database
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.23.2
+  origversion: 1.23.2-0.1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+  categories:
+    - database
 - repo: pureos_landing
   subrepo: landing/main
   srcname: mycli
@@ -54,19 +122,22 @@
     - lhw@ring0.de
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
+- repo: debian_13
+  subrepo: trixie/main
   srcname: mycli
   binnames:
     - mycli
   visiblename: mycli
-  version: 1.16.0
-  origversion: 1.16.0-1
+  version: 1.31.2
+  origversion: 1.31.2-1
   status: outdated
   maintainers:
+    - daniel@debian.org
     - lhw@ring0.de
-- repo: devuan_4_0
-  subrepo: chimaera/main
+  categories:
+    - misc
+- repo: debian_11
+  subrepo: bullseye/main
   srcname: mycli
   binnames:
     - mycli
@@ -75,6 +146,20 @@
   origversion: 1.23.2-0.1
   status: outdated
   maintainers:
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.26.1
+  origversion: 1.26.1-3
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
     - lhw@ring0.de
   categories:
     - misc
@@ -91,20 +176,6 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 2.31.0
-  origversion: 2.31.0-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
 - repo: alpine_3_18
   subrepo: community
   srcname: mycli
@@ -349,47 +420,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - BSD
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.23.2
-  origversion: 1.23.2-0.1
-  status: outdated
-  maintainers:
-    - lhw@ring0.de
-  categories:
-    - misc
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.26.1
-  origversion: 1.26.1-3
-  status: outdated
-  maintainers:
-    - daniel.baumann@progress-linux.org
-    - lhw@ring0.de
-  categories:
-    - misc
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.31.2
-  origversion: 1.31.2-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
 - repo: debian_14
   subrepo: forky/main
   srcname: mycli
@@ -418,6 +448,44 @@
     - lhw@ring0.de
   categories:
     - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.23.2
+  origversion: 1.23.2-0.1
+  status: outdated
+  maintainers:
+    - lhw@ring0.de
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 2.31.0
+  origversion: 2.31.0-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - misc
 - repo: epel_9
   srcname: mycli
   binnames:
@@ -426,6 +494,21 @@
   visiblename: mycli
   version: 1.26.1
   origversion: 1.26.1-3.el9
+  status: outdated
+  summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: mycli
+  binnames:
+    - mycli
+    - python3-mycli+ssh
+  visiblename: mycli
+  version: 1.27.2
+  origversion: 1.27.2-1.fc39
   status: outdated
   summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
   licenses:
@@ -442,21 +525,6 @@
   version: 1.27.0
   origversion: 1.27.0-1.fc39
   status: legacy
-  summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-- repo: fedora_39
-  subrepo: updates
-  srcname: mycli
-  binnames:
-    - mycli
-    - python3-mycli+ssh
-  visiblename: mycli
-  version: 1.27.2
-  origversion: 1.27.2-1.fc39
-  status: outdated
   summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
   licenses:
     - BSD
@@ -522,6 +590,13 @@
     - LicenseRef-Callaway-BSD
   categories:
     - Unspecified
+- repo: homebrew
+  srcname: mycli
+  visiblename: mycli
+  version: 2.31.1
+  origversion: null
+  status: newest
+  summary: CLI for MySQL with auto-completion and syntax highlighting
 - repo: fedora_42
   subrepo: updates
   srcname: mycli
@@ -584,22 +659,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: mycli
-  binnames:
-    - mycli
-    - python3-mycli+ssh
-    - python3-mycli+llm
-  visiblename: mycli
-  version: 1.51.1
-  origversion: 1.51.1-1.fc44
-  status: legacy
-  summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
-  licenses:
-    - LicenseRef-Callaway-BSD
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: mycli
   binnames:
@@ -610,6 +669,22 @@
   version: 1.66.0
   origversion: 1.66.0-1.fc44
   status: outdated
+  summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
+  licenses:
+    - LicenseRef-Callaway-BSD
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: mycli
+  binnames:
+    - mycli
+    - python3-mycli+ssh
+    - python3-mycli+llm
+  visiblename: mycli
+  version: 1.51.1
+  origversion: 1.51.1-1.fc44
+  status: legacy
   summary: Interactive CLI for MySQL Database with auto-completion and syntax highlighting
   licenses:
     - LicenseRef-Callaway-BSD
@@ -646,6 +721,20 @@
     - LicenseRef-Callaway-BSD
   categories:
     - Unspecified
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: mycli
+  binnames:
+    - mycli
+  visiblename: mycli
+  version: 1.31.2
+  origversion: 1.31.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+    - lhw@ring0.de
+  categories:
+    - universe/misc
 - repo: gentoo
   srcname: dev-db/mycli
   visiblename: dev-db/mycli
@@ -684,27 +773,6 @@
   origversion: null
   status: outdated
   summary: Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
-- repo: homebrew
-  srcname: mycli
-  visiblename: mycli
-  version: 2.31.0
-  origversion: null
-  status: outdated
-  summary: CLI for MySQL with auto-completion and syntax highlighting
-- repo: kali_rolling
-  subrepo: main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 2.30.3
-  origversion: 2.30.3-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
 - repo: liguros_stable
   srcname: dev-db/mycli
   visiblename: dev-db/mycli
@@ -873,60 +941,6 @@
     - lhw@ring0.de
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.31.2
-  origversion: 1.31.2-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.31.2
-  origversion: 1.31.2-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.16.0
-  origversion: 1.16.0-1
-  status: outdated
-  maintainers:
-    - lhw@ring0.de
-  categories:
-    - database
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.23.2
-  origversion: 1.23.2-0.1
-  status: outdated
-  maintainers:
-    - lhw@ring0.de
-  categories:
-    - database
 - repo: termux
   srcname: mycli
   binname: mycli
@@ -1012,20 +1026,6 @@
   visiblename: mycli
   version: 1.29.2
   origversion: 1.29.2-7
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-    - lhw@ring0.de
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: mycli
-  binnames:
-    - mycli
-  visiblename: mycli
-  version: 1.31.2
-  origversion: 1.31.2-1
   status: outdated
   maintainers:
     - daniel@debian.org
