@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,996 · **Forks**: 703 · **Open issues**: 745 · **Contributors**: 137
+- **Stars**: 11,997 · **Forks**: 702 · **Open issues**: 745 · **Contributors**: 137
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 63 | 0 | 1 | 1 | 64 |
-| last60d | 2026-09-21 | 19 | 184 | 0 | 2 | 1 | 183 |
-| 90d | 2026-08-22 | 43 | 286 | 0 | 3 | 1 | 287 |
-| last180d | 2026-05-24 | 70 | 529 | 0 | 17 | 1 | 534 |
-| 360d | 2025-11-25 | 100 | 963 | 0 | 51 | 1 | 979 |
-| last720d | 2024-11-30 | 100 | 1137 | 0 | 80 | 1 | 2304 |
+| 30d | 2026-10-22 | 6 | 63 | 0 | 1 | 1 | 64 |
+| last60d | 2026-09-22 | 19 | 182 | 0 | 2 | 1 | 183 |
+| 90d | 2026-08-23 | 42 | 286 | 0 | 3 | 1 | 287 |
+| last180d | 2026-05-25 | 70 | 528 | 0 | 17 | 1 | 534 |
+| 360d | 2025-11-26 | 100 | 963 | 0 | 51 | 1 | 979 |
+| last720d | 2024-12-01 | 100 | 1137 | 0 | 80 | 1 | 2304 |
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/mycli). **2** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/mycli). **2** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:04:12Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:29:48Z._
