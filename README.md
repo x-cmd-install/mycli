@@ -14,25 +14,25 @@ x install mycli
 
 ## Code insight
 
-Total: **46,854** lines of code across **176** files in the top 5 languages.
+Total: **46,860** lines of code across **176** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 46,312 | 722 | 11,376 | 165 |
+| Python | 46,317 | 725 | 11,376 | 165 |
 | Gherkin | 239 | 6 | 43 | 8 |
-| Toml | 159 | 1 | 23 | 1 |
+| Toml | 160 | 1 | 23 | 1 |
 | Fish | 116 | 2 | 14 | 1 |
 | Dockerfile | 22 | 0 | 6 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -42,43 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.32.0` (2026-11-21)
-- **Last commit**: 2026-11-23
+- **Latest**: `v2.32.1` (2026-11-25)
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 12,000 · **Forks**: 703 · **Open issues**: 748 · **Contributors**: 137
+- **Stars**: 12,003 · **Forks**: 703 · **Open issues**: 749 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1597 · **Open PRs**: 0 · **Closed issues**: 748 · **Open issues**: 0 · **Commits**: 4267
+- **Releases**: 141 · **Merged PRs**: 1601 · **Open PRs**: 1 · **Closed issues**: 749 · **Open issues**: 0 · **Commits**: 4275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 71 | 0 | 5 | 0 | 62 |
-| last60d | 2026-09-25 | 20 | 188 | 0 | 6 | 0 | 176 |
-| 90d | 2026-08-26 | 42 | 290 | 0 | 6 | 0 | 283 |
-| last180d | 2026-05-28 | 70 | 537 | 0 | 20 | 0 | 536 |
-| 360d | 2025-11-29 | 100 | 974 | 0 | 55 | 0 | 991 |
-| last720d | 2024-12-04 | 100 | 1148 | 0 | 84 | 0 | 2331 |
-
-## Distribution status
-
-Reported by **81** distros on [repology.org](https://repology.org/project/mycli). **3** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.31.0` | ⚠️ outdated |
-| Debian 14 | `2.31.0` | ⚠️ outdated |
-| Debian 13 | `1.31.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.54.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.27.0` | ⚠️ outdated |
-| Homebrew | `2.32.0` | ✅ latest |
-| Fedora rawhide | `2.32.0` | ✅ latest |
-| Nix unstable | `2.20.0` | ⚠️ outdated |
-| Alpine edge | `1.66.0` | ⚠️ outdated |
+| 30d | 2026-10-26 | 7 | 74 | 1 | 6 | 0 | 66 |
+| last60d | 2026-09-26 | 21 | 187 | 1 | 7 | 0 | 180 |
+| 90d | 2026-08-27 | 43 | 293 | 1 | 7 | 0 | 287 |
+| last180d | 2026-05-29 | 71 | 540 | 1 | 21 | 0 | 540 |
+| 360d | 2025-11-30 | 100 | 978 | 1 | 56 | 0 | 995 |
+| last720d | 2024-12-05 | 100 | 1152 | 1 | 85 | 0 | 2339 |
 
 ## Improve this data
 
@@ -89,4 +73,4 @@ Install metadata for mycli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:02:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:40:41Z._
