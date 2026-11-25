@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dbcli/mycli/releases/453739015",
-  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/453739015/assets",
-  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/453739015/assets{?name,label}",
-  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.32.0",
-  "id": 453739015,
+  "url": "https://api.github.com/repos/dbcli/mycli/releases/457788696",
+  "assets_url": "https://api.github.com/repos/dbcli/mycli/releases/457788696/assets",
+  "upload_url": "https://uploads.github.com/repos/dbcli/mycli/releases/457788696/assets{?name,label}",
+  "html_url": "https://github.com/dbcli/mycli/releases/tag/v2.32.1",
+  "id": 457788696,
   "author": {
     "login": "rolandwalker",
     "id": 727482,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAf6F6s4bC4IH",
-  "tag_name": "v2.32.0",
+  "node_id": "RE_kwDOAf6F6s4bSU0Y",
+  "tag_name": "v2.32.1",
   "target_commitish": "main",
-  "name": "v2.32.0",
+  "name": "v2.32.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-21T14:11:33Z",
-  "updated_at": "2026-11-21T14:12:16Z",
-  "published_at": "2026-11-21T14:12:16Z",
+  "created_at": "2026-11-25T07:40:27Z",
+  "updated_at": "2026-11-25T07:41:13Z",
+  "published_at": "2026-11-25T07:41:13Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.32.0",
-  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.32.0",
-  "body": "## What's Changed\r\n* Write the log file as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2448\r\n* Substitute favorite query args $10 and above by @zzoraemon043 in https://github.com/dbcli/mycli/pull/2449\r\n* fix: replace undecodable bytes in /system command output by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2450\r\n* Add guidance on changelog entry length by @rolandwalker in https://github.com/dbcli/mycli/pull/2451\r\n* Quote identifiers in sql-insert and sql-update output by @zzoraemon043 in https://github.com/dbcli/mycli/pull/2452\r\n* Refine `under_words` completions method by @rolandwalker in https://github.com/dbcli/mycli/pull/2453\r\n* Prepare changelog for release v2.32.0 by @rolandwalker in https://github.com/dbcli/mycli/pull/2454\r\n\r\n## New Contributors\r\n* @zzoraemon043 made their first contribution in https://github.com/dbcli/mycli/pull/2449\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.31.1...v2.32.0",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/dbcli/mycli/tarball/v2.32.1",
+  "zipball_url": "https://api.github.com/repos/dbcli/mycli/zipball/v2.32.1",
+  "body": "## What's Changed\r\n* Improve methods for escaping names by @rolandwalker in https://github.com/dbcli/mycli/pull/2455\r\n* Read Vault output as UTF-8 by @pcbeingused333 in https://github.com/dbcli/mycli/pull/2456\r\n* Close backticked names that end or start with an escaped backtick by @zzoraemon043 in https://github.com/dbcli/mycli/pull/2457\r\n* Keep keepalive_ticks=0 in /dsn show --more and /dsn save --more by @goranai in https://github.com/dbcli/mycli/pull/2459\r\n* Read statements inside /*! ... */ executable comments as code by @goranai in https://github.com/dbcli/mycli/pull/2462\r\n* Upgrade `cli_helpers` dependency to v2.15.4 by @rolandwalker in https://github.com/dbcli/mycli/pull/2463\r\n* Accept delimiters containing a semicolon by @zzoraemon043 in https://github.com/dbcli/mycli/pull/2460\r\n* Strip quotes from /system arguments on Windows by @goranai in https://github.com/dbcli/mycli/pull/2465\r\n* Upgrade `pyyaml` dependency to v6.0.4 by @rolandwalker in https://github.com/dbcli/mycli/pull/2466\r\n* Keep LLM sample data text when only prompt_section_truncate is set by @goranai in https://github.com/dbcli/mycli/pull/2468\r\n* Upgrade `cli_helpers` dependency to v2.15.5 by @rolandwalker in https://github.com/dbcli/mycli/pull/2469\r\n* Prepare changelog for release v2.32.1 by @rolandwalker in https://github.com/dbcli/mycli/pull/2470\r\n\r\n\r\n**Full Changelog**: https://github.com/dbcli/mycli/compare/v2.32.0...v2.32.1",
+  "mentions_count": 4
 }
